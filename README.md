@@ -2,6 +2,6 @@
 
 ### Igen, utólag lett szólva, hogy nem kell jelszó. Na mindegy, amúgy a login.php-ban ez nem működik.
 asszem xd
-<br>
+<br><br><br><br>
 <img align="center" src="https://media.tenor.com/Z6SD6vtXZS8AAAAj/merp.gif">
 <h3>merp</h3>
