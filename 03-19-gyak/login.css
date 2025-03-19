@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body{
+    text-align: center;
+    background-color: #272727;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+#login-ui{
+    background-color: #171717;
+    max-width: 100%;
+    width: 400px;
+    text-align: center;
+}
+input{
+    background-color: #272727;
+    border: 3px solid #ffffff;
+    border-radius: 15px;
+    height: 30px;
+    width: 250px;
+    font-family: 'Inter', sans-serif;
+}
+::placeholder{
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Inter', sans-serif;
+    letter-spacing: 1px;
+    outline-width: 15px;
+    font-weight: 900;
+}
+#input-pass{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+button[type="submit"]{
+    background-color: #272727;
+    color: #ffffff;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    border: 3px solid #ffffff;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
